@@ -8,6 +8,6 @@ public class class1 {
 		String s3=new String("example");//creating Java string by new keyword    
 		System.out.println(s1);    
 		System.out.println(s2);    
-		System.out.println(s3);    
+		   
 		}
 }
